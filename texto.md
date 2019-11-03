@@ -1,5 +1,5 @@
-# Práctica de Profundización en Ingeniería de Software
-## Primera parte
+# Práctica 1 de Profundización en Ingeniería de Software
+## Introducción
 Este fichero se corresponde con una práctica de Profundización para
 refrescar los conocimientos de GitHub.
 ## Desarrollo
